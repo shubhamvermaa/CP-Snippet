@@ -112,7 +112,7 @@ freopen("output.txt", "w", stdout);
   cin>>tc;
   while(tc--)
   {
-    
+    //Lets Code It !!
     
     
   }
